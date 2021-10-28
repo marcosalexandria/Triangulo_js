@@ -1,0 +1,16 @@
+
+header{
+    text-align: center;   
+}
+
+ /*Imagem do site*/
+img{
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+
+/*inputs de valores*/
+div{
+    margin: 10px;
+}
